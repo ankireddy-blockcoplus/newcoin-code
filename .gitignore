@@ -38,44 +38,44 @@ share/qt/Info.plist
 
 src/univalue/gen
 
-src/qt/*.moc
-src/qt/moc_*.cpp
-src/qt/forms/ui_*.h
+# src/qt/*.moc
+# src/qt/moc_*.cpp
+# src/qt/forms/ui_*.h
 
-src/qt/test/moc*.cpp
+# src/qt/test/moc*.cpp
 
-src/qt/bitcoin-qt.config
-src/qt/bitcoin-qt.creator
-src/qt/bitcoin-qt.creator.user
-src/qt/bitcoin-qt.files
-src/qt/bitcoin-qt.includes
+# src/qt/bitcoin-qt.config
+# src/qt/bitcoin-qt.creator
+# src/qt/bitcoin-qt.creator.user
+# src/qt/bitcoin-qt.files
+# src/qt/bitcoin-qt.includes
 
-.deps
-.dirstamp
-.libs
-.*.swp
-*.*~*
-*.bak
-*.rej
-*.orig
-*.pyc
-*.o
-*.o-*
-*.patch
-*.a
-*.pb.cc
-*.pb.h
+# .deps
+# .dirstamp
+# .libs
+# .*.swp
+# *.*~*
+# *.bak
+# *.rej
+# *.orig
+# *.pyc
+# *.o
+# *.o-*
+# *.patch
+# *.a
+# *.pb.cc
+# *.pb.h
 
-*.log
-*.trs
-*.dmg
+# *.log
+# *.trs
+# *.dmg
 
-*.json.h
-*.raw.h
+# *.json.h
+# *.raw.h
 
-#libtool object files
-*.lo
-*.la
+# #libtool object files
+# *.lo
+# *.la
 
 # Compilation and Qt preprocessor part
 # *.qm
