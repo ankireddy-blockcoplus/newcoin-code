@@ -78,11 +78,11 @@ src/qt/bitcoin-qt.includes
 *.la
 
 # Compilation and Qt preprocessor part
-*.qm
-Makefile
-newcoin-qt
-newcoin-Qt.app
-background.tiff*
+# *.qm
+# Makefile
+# newcoin-qt
+# newcoin-Qt.app
+# background.tiff*
 
 # Unit-tests
 Makefile.test
